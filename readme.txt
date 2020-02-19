@@ -1,16 +1,21 @@
 
+You will find the example nootbooks in the /Demo folder
 
-https://mybinder.org/v2/gh/ers230/LaerdalDataSummit/master?urlpath=nteract/tree/Lab
+You can start with the k-Means or SVM examples directly.
+    Run the code by pressing the "Run" button on the top menu or pressing Shift + Enter 
+    Feel free to change variables, you will find a Python cheat sheet in this folder.
 
 
-macOS Local Installation and Use
-Install Jupyter via pip or Anaconda etc.
+Check out the /Data folder if you want to know how to load and pre-process data yourself.
 
-Install Mono (tested Mono 5.10.1.47)
 
-Download the latest IfSharp zip release
 
-Unzip the release then run mono ifsharp.exe
 
-Jupyter will start and a notebook with F# can be selected. This can be run via "jupyter notebook" in future
+A great way to get started with Python Machine learning in your own projects is:
+https://www.anaconda.com/distribution/
+
+It comes with Python and the most important packages for data science.
+You can make Nootbooks like the examples youself with Jupyter host them for free at https://mybinder.org/
+
+
 
